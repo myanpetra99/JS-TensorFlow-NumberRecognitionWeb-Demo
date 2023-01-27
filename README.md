@@ -1,4 +1,4 @@
-(PRACTICE 🔰) Number Recognition Web
+(For My Curiosity 🔰) Number Recognition Web
 
 converting trained ML model to JS and load it on Web using tensorflow.js
 
